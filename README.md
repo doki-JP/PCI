@@ -9,12 +9,12 @@ Lo que planeo hacer es algún tipo de examen o encuesta que me exiga mejorar mi 
 
 # Algoritmo
 
-#Entrada
+# Entrada
 Las entrada solo sería una variable, que sería la respuesta del usuario
 
-#Proceso
+# Proceso
 me centaré en 2 funciones, una que verifique que la opción que da el usuario esté dentro del intervalo de incisos que se pueden tomar, y la segunda para poder calificar al usuario, si esta en lo correcto se le sumaría 1 a alguna variable, de lo contrario no se le sumaría nada.
 En cuanto a lo demás considero que solo quedaría formular y mostrar preguntas al usuario, al igual que recibir y validar la respuesta del usuario.
 
-#Salida
+# Salida
 Me gustaría que el programa imprimiera un mensaje con la puntuación, pero también que mostrara las preguntas en las que se equivocó junto con su respuesta.
