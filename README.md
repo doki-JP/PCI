@@ -1,4 +1,4 @@
-# Pensamiento Computacional para la Ingeniería - Proyecto
+# Pensamiento Computacional para la Ingeniería - New Chemistry
 
 Problema: La relación entre los juegos y la educación.
 Siempre me han interesado los videojuegos, tanto así que mi selección de carrera se basó completamente en este aspecto mío, pero muchas personas, normalmente mayores, creen que los videojuegos no benefician a nadie, aunque desde mi perspectiva aprendes más si disfrutas lo que estás haciendo, así que tuve la idea de hacer un juego que englobe a ambas cosas.
