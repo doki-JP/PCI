@@ -5,9 +5,7 @@ Siempre me han interesado los videojuegos, tanto así que mi selección de carre
 
 Para ser más específicos, me gustaría hacer un juego, quizás un ahorcado, en el que se establece una pregunta y tú debes responderla en un número de intentos, las respuestas no deberían ser tan largas, de 1 a 5 palabras o incluso respuestas de opción múltiple, como lo hacen los exámenes. En cuanto a los temas que abarcaría, me gustaría hacerlo de química, ya que en estos momentos me preocupa mi rendimiento en la materia, de este modo puedo tanto estudiar y conocer los conceptos de mis clases de química, y al mismo tiempo tomarmelo con más calma además de progresar en esta materia.
 
-Lo que planeo hacer es algún tipo de examen o encuesta que me exiga mejorar mi puntuación, me sentraré en la química, esto porque es la materia que más me preocupa este año y que sería muy bueno tener algo para poder refrescarme los conocimientos de la clase.
-
-# Algoritmo
+Lo que planeo hacer es algún tipo de examen o encuesta que me exiga mejorar mi puntuación, me centraré en la química, esto porque es la materia que más me preocupa este año y que sería muy bueno tener algo para poder refrescarme los conocimientos de la clase.
 
 # Entrada
 Las entrada solo sería una variable, que sería la respuesta del usuario
