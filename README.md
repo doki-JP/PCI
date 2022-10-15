@@ -10,6 +10,7 @@ Las entrada solo sería una variable, que sería la respuesta del usuario
 # Proceso
 me centaré en 2 funciones, una que verifique que la opción que da el usuario esté dentro del intervalo de incisos que se pueden tomar, y la segunda para poder calificar al usuario, si esta en lo correcto se le sumaría 1 a alguna variable, de lo contrario no se le sumaría nada.
 En cuanto a lo demás considero que solo quedaría formular y mostrar preguntas al usuario, al igual que recibir y validar la respuesta del usuario.
+aunque estas dos no serían las únicas, tendría funciones para leer y añadir información de archivos, además de intentar tenerlo todo ordenado
 
 # Salida
 Un mensaje junto con la puntuación del usuario
